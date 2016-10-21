@@ -87,11 +87,12 @@ php-symfony-mysql/
     phpunit.xml.dist
     README.md
 ```
+More about Laravel directory structure you can read here: http://symfony.com/doc/current/quick_tour/the_architecture.html
 
 ## Technologies
 Language - [PHP](http://php.net)<br />
 Web framework - [Symfony](https://symfony.com)<br />
-Tepmlate    [Twig](http://twig.sensiolabs.org/)<br />
+Tepmlate - [Twig](http://twig.sensiolabs.org/)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 
 ## Further Learning
