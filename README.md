@@ -2,7 +2,7 @@
 PHP basic template
 =========================
 
-This example shows how to use Anychart library with the PHP programming language, Synfony framework and MySQL database.
+This example shows how to use Anychart library with the PHP programming language, Symfony framework and MySQL database.
 
 ## Running
 
@@ -62,8 +62,8 @@ php-symfony-mysql/
             parameters.yml      # MySQL database settings
         Resources
             views/
-            ...
-            chart.html.twig     # html chart template
+                ...
+                chart.html.twig     # html chart template
     bin/
     src/
         AppBundle/
@@ -83,7 +83,6 @@ php-symfony-mysql/
     composer.json           # composer project settings
     composer.lock
     database_backup.sql     # MySQL database dump
-    gulpfile.js
     LICENSE
     phpunit.xml.dist
     README.md
@@ -91,8 +90,9 @@ php-symfony-mysql/
 
 ## Technologies
 Language - [PHP](http://php.net)<br />
-Database - [MySQL](https://www.mysql.com/)<br />
 Web framework - [Symfony](https://symfony.com)<br />
+Tepmlate    [Twig](http://twig.sensiolabs.org/)<br />
+Database - [MySQL](https://www.mysql.com/)<br />
 
 ## Further Learning
 * [Documentation](https://docs.anychart.com)
@@ -101,4 +101,4 @@ Web framework - [Symfony](https://symfony.com)<br />
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/pphp-symfony-mysql/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-symfony-mysql/blob/master/LICENSE).
