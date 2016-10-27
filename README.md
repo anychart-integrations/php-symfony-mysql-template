@@ -27,12 +27,12 @@ To start this example run commands listed below.
 
 Clone the repository from github.com:
 ```
-$ git clone git@github.com:anychart-integrations/php-symfony-mysql.git
+$ git clone git@github.com:anychart-integrations/php-symfony-mysql-template.git
 ```
 
 Navigate to the repository folder:
 ```
-$ cd php-symfony-mysql
+$ cd php-symfony-mysql-template
 ```
 
 Install dependencies:
@@ -55,7 +55,7 @@ Open browser at http://127.0.0.1:8000
 ## Workspace
 Your workspace should look like:
 ```
-php-symfony-mysql/
+php-symfony-mysql-template/
     app/               
         config/
             ...
@@ -102,4 +102,4 @@ Database - [MySQL](https://www.mysql.com/)<br />
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-symfony-mysql/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-symfony-mysql-template/blob/master/LICENSE).
