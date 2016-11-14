@@ -42,6 +42,23 @@ Install dependencies:
 $ composer install
 ```
 
+First time you run it, it will ask you for application parameters: 
+```
+...
+Some parameters are missing. Please provide them.
+database_host (127.0.0.1):
+```
+Just press Enter several times to confirm default parameters.
+
+Ensure you have php-mysql installed, run:
+```
+$ php -m
+```
+If there isn't 'mysql', install it:
+```
+$ sudo apt-get install php{your_php_version}-mysql # e.g. sudo apt-get install php5.6-mysql
+```
+
 Set up MySQL database, use -u -p flags to provide username and password:
 ```
 $  mysql < database_backup.sql
