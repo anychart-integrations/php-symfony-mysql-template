@@ -126,3 +126,5 @@ AnyChart PHP/Symphony/MySQL integration sample includes two parts:
 
 If you have any questions regarding licensing - please contact us. <sales@anychart.com>
 
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/php-symphony-mysql-template?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
+
